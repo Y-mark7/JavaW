@@ -18,7 +18,7 @@ public class P01TiposPrimitivos {
         String dataRecebimento = "12/04/2026";
         System.out.println("Eu "+nome+" tenho "+idade+" anos, morando em "+endereco+", confirmo que recebi o sálario de R$"+salario+", na data "+dataRecebimento);
 
-        System.out.println("Outra forma (no code): ");
+        System.out.println("Outra forma (escrita no code): ");
 
         String resposta = "Eu "+nome+" tenho "+idade+" anos, morando em "+endereco+", confirmo que recebi o sálario de R$"+salario+", na data "+dataRecebimento;
         System.out.println(resposta);
